@@ -12,7 +12,7 @@
 - Minimal cost of production.
 
 ### What tools are used in devops
-![](images/devops%20tools.png)
+<img src="image/devops%20tools.png" width="100" >
 - Above shows an image with some of the tools used in devops at each stage of the lifecycle.
 
 ### Elevator's Pitch
