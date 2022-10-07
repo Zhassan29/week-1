@@ -23,6 +23,7 @@
 - Agile methodologies attempt to produce the proper product through small cross-functional self-organizing teams that produce small pieces of functionality on a regular basis, allowing for frequent customer input and course correction as needed.
 
 ### What is Scrum?
+![](images/scrum.png)
 - The Scrum framework is a part of the Agile methodology, which is a practice that involves managing a project by dividing it into multiple phases and repeating a cycle of planning, executing and evaluating at every phase.
 - The heart of Scrum is a Sprint, Sprint is one timeboxed iteration of a continuous development cycle. Within a Sprint, planned amount of work has to be completed by the team and made ready for review. Scrum projects are broken down into small and consistent time intervals referred to as sprints. They can be as short as a few days and generally are no longer than 3 – 4 weeks.
 
