@@ -2,6 +2,15 @@
 ### What is a Devops?
 - DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 
+### What are the benefits of a devops
+- Faster, better product delivery.
+- Greater scalability and availability.
+- Better resource utilization
+- Introduces automation to the development process.
+- Automation in repetitive tasks leaves more room for innovation.
+- Promotes agility in your business
+- Minimal cost of production.
+
 ### Elevator's Pitch
 - An elevator pitch is a brief way of introducing yourself, getting across a key point or two, and making a connection with someone.
 
