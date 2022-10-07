@@ -11,6 +11,10 @@
 - Promotes agility in your business
 - Minimal cost of production.
 
+### What tools are used in devops
+![image](https://user-images.githubusercontent.com/115171424/194597878-85c8a80c-6661-45f5-aaef-d8ba0e821418.png)
+- Above shows an image with some of the tools used in devops at each stage of the lifecycle.
+
 ### Elevator's Pitch
 - An elevator pitch is a brief way of introducing yourself, getting across a key point or two, and making a connection with someone.
 
