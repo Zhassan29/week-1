@@ -21,6 +21,14 @@
 ### Elevator's Pitch
 - An elevator pitch is a brief way of introducing yourself, getting across a key point or two, and making a connection with someone.
 
+### What makes a good elavator pitch
+- Create an overview of your good qualities.
+- Know your unique selling proposition.
+- Think of a creative opening sentence.
+- Read the elevator pitch back to yourself out loud.
+- Ask a friend of family member to judge your pitch.
+- Bring enthusiasm and energy to your pitch.
+
 ### What is Agile?
 - The Agile methodology is a practice that encourages continuous development and testing throughout the software development lifecycle of a project.
 - Agile methodologies attempt to produce the proper product through small cross-functional self-organizing teams that produce small pieces of functionality on a regular basis, allowing for frequent customer input and course correction as needed.
