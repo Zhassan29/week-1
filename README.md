@@ -2,6 +2,9 @@
 ### What is a Devops?
 - DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 
+### What is the role of a devops
+- The role of a devOps engineer combines aspects of a technical role and an IT operations role. While engineers are likely to be involved with coding, and a knowledge of coding languages and principles is required to find problems and build solutions, this is not the primary role of a devOps engineer. More senior engineers are likely to be more involved in the project management and planning side of development.
+
 ### What are the benefits of a devops
 - Faster, better product delivery.
 - Greater scalability and availability.
@@ -32,3 +35,14 @@
 - Limit the amount of text on each slide
 - Be savvy with design details
 - Polish several times
+
+### How to install pycharm
+- To download and install Python, visit the official website of Python https://www.python.org/downloads/ and choose your version. We have chosen Python version 3.6.3
+- Once the download is completed, run the .exe file to install Python. Now click on Install Now.
+- When it finishes, you can see a screen that says the Setup was successful. Now click on “Close”.
+
+### How to install python
+- Download the installer package from Python's official website.
+- Wait for the download to complete. Once it's finished, double-click the package to start the installation process. You can follow the on-screen instructions in the Python installer for this step.
+- Once the installation is complete, the installer will automatically open Python's installation directory in a new Finder window.
+
